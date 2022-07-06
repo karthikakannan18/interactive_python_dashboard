@@ -2,5 +2,5 @@
 To serve the dashboard locally, use the command:
 
 ```
-panel serve Interactive_dashboard.ipynb
+panel serve interactive_dashboard.ipynb
 ```
